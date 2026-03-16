@@ -16,4 +16,6 @@ A Bash script that analyzes Linux authentication logs to detect failed login att
 ## Run Script
 
 chmod +x log_analyzer.sh
+
+
 ./log_analyzer.sh
